@@ -1,1 +1,10 @@
 
+# Just some basic Python code 
+
+msg = input("Enter your name>>> ")
+
+def message():
+  print("Welcome to my Repo🧑🏽‍💻 " + msg.upper())
+  print("Feel at home🤗🤗🤗")
+
+message()
