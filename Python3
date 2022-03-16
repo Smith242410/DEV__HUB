@@ -1,4 +1,3 @@
-
 # Just some basic Python code 
 
 msg = input("Enter your name>>> ")
