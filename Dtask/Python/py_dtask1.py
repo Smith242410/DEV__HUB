@@ -25,6 +25,3 @@ def company(wkr1, wkr2, wkr3):
     print(msg)
     msg = wkr3[0] + " at rank " + wkr3[1] + ",  have been credited N" + str(sal3)
     print(msg)
-    
-    
-company("Smith 1", "Max 2", "Sam 3")
