@@ -10,6 +10,7 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
+    margin: 10% 0% 2.5% 0%;
 }
 
 h5 {
@@ -21,6 +22,6 @@ h5 {
 p {
     font-weight: 400;
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     color: hsl(220, 15%, 55%);
 }
